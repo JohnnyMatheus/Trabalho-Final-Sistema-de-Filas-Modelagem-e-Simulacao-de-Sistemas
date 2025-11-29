@@ -6,11 +6,11 @@
 Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de filas, que será capaz de calcular e apresentar os seguintes itens:
 </p>
 
--- a) Intervalo médio entre chegadas.
-b) Duração média do atendimento.
-c) Tabela de funcionamento do sistema.
-d) Tamanho médio da fila.
-e) Tempo médio de espera na fila.
+- a) Intervalo médio entre chegadas.
+- b) Duração média do atendimento.
+- c) Tabela de funcionamento do sistema.
+- d) Tamanho médio da fila.
+- e) Tempo médio de espera na fila.
 
 ## 🧠 Desenvolvedores
 
