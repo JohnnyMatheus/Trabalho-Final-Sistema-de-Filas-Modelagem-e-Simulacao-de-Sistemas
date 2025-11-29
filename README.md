@@ -66,6 +66,15 @@ if st.button("Simular Sistema"):
     st.write(f"**Tamanho médio da fila:** {medias['tamanho_medio_fila']:.2f} clientes")
 ```
 
+<h3>simulador.py</h3>
+<p>Aqui ficam as funções matemáticas:</p>
+
+- Função para gerar tempos de chegada
+- Função para gerar tempos de atendimento
+- Função que monta a tabela de funcionamento
+- Função que calcula médias
+
+
 ## 🧠 Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br>👑Game Master👑<br><sub>🐦‍🔥Johnny Matheus Nogueira de Medeiro🐦‍🔥</sub>](https://github.com/JohnnyMatheus) | [<img src="https://avatars.githubusercontent.com/u/166051346?v=4" width=115><br><sub>Nelson Ramos Rodrigues Junior</sub>](#) | [<img src="https://avatars.githubusercontent.com/u/165223471?v=4" width=115><br><sub>Nathaniel Nicolas Rissi Soares</sub>](#) |
