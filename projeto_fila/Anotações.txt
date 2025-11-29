@@ -1,0 +1,21 @@
+Criar ambiente virtual
+python -m venv venv
+
+venv\Scripts\activate
+
+
+
+Bibliotecas usadas 
+pip install streamlit
+pip install numpy
+pip install pandas
+
+
+Criar os requirements do projeto
+    comando: pip freeze > requirements.txt
+
+
+Comando para rodar o projeto
+streamlit run app.py
+
+
