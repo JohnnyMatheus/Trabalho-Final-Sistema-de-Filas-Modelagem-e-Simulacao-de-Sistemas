@@ -33,6 +33,7 @@ projeto_fila/
 <h3> app.py</h3>
 
 <p>Aqui fica a interface Streamlit:</p>
+
 - Inputs (quantidade de clientes, intervalos etc.)
 - Botão para rodar simulação
 - Exibição da tabela
