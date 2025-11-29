@@ -20,6 +20,22 @@ Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de
 | **M** | Serviços com distribuição **Markoviana** (exponencial)                            |
 | **1** | **Um único servidor**                      
 
+# Estrutura do Projeto
+projeto_fila/
+│
+├── app.py                 
+├── simulador.py           
+└── requirements.txt  
+
+# Estrutura do Código  
+<h3> app.py</h3>
+
+Aqui fica a interface Streamlit:
+Inputs (quantidade de clientes, intervalos etc.)
+Botão para rodar simulação
+Exibição da tabela
+Exibição dos cálculos
+
 ## 🧠 Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br>👑Game Master👑<br><sub>🐦‍🔥Johnny Matheus Nogueira de Medeiro🐦‍🔥</sub>](https://github.com/JohnnyMatheus) | [<img src="https://avatars.githubusercontent.com/u/166051346?v=4" width=115><br><sub>Nelson Ramos Rodrigues Junior</sub>](#) | [<img src="https://avatars.githubusercontent.com/u/165223471?v=4" width=115><br><sub>Nathaniel Nicolas Rissi Soares</sub>](#) |
