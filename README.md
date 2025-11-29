@@ -18,6 +18,6 @@ Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de
 | :---: | :---: | :---: |
 
 
-## 🔷 Professor
+## 🔷 Professora
 | [<img src="https://media.licdn.com/dms/image/v2/D4D03AQGmaG0p9vOt8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728394332600?e=2147483647&v=beta&t=q33tl94DTaTiWqe_RSpPjQx1QzQdCjVgOpBVdPgbsIo" width=115><br><sub>Tatiele Bolson Moro</sub>](https://br.linkedin.com/in/tatiele-bolson-moro-a1340b25) |
 | :---: |
