@@ -12,6 +12,11 @@ Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de
 - d) Tamanho médio da fila.
 - e) Tempo médio de espera na fila.
 
+
+<div>
+<img src = "">
+</div>
+
 # Modelo M/M/1
 
 | Letra | Significado                                                                       |
