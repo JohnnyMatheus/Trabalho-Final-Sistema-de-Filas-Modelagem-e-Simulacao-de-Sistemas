@@ -14,7 +14,7 @@ Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de
 
 
 <div>
-<img src = "">
+<img src = "https://github.com/JohnnyMatheus/Trabalho-Final-Sistema-de-Filas-Modelagem-e-Simulacao-de-Sistemas/blob/main/demonstra%C3%A7%C3%A3o.gif">
 </div>
 
 # Modelo M/M/1
