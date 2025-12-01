@@ -12,6 +12,9 @@ Objetivo: Desenvolver um algoritmo para modelar o funcionamento de um sistema de
 - d) Tamanho médio da fila.
 - e) Tempo médio de espera na fila.
 
+ Critérios:
+- a) O usuário deve inserir a quantidade de clientes, o intervalo de chegada, e a duração do atendimento. O tema pode ser da escolha dos estudantes.
+- b) O algoritmo pode ser desenvolvido na linguagem de programação de sua escolha
 
 # Modelo M/M/1
 
